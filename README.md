@@ -43,12 +43,6 @@ Using bundled sqlite. On windows installing shared libraries can be a pain so yo
 cargo install --no-default-features --features "sqlite-bundled"
 ```
 
-#### Tauri
-
-```shell
-cargo install tauri-cli --version "^1.0.0"
-```
-
 #### Building
 
 ```shell
